@@ -39,7 +39,7 @@ function Projects() {
       <p className="projects-subtitle">Selected work from production and exploration.</p>
       <div className="projects-grid">
         {projects.map((project, index) => (
-          <div key={index} className="project-card">
+          <div key={index} className={`project-card${index === 4 ? ' project-card--last' : ''}`}>
             <div className="project-tags">
               {project.tags.map((tag, i) => (
                 <span key={i} className="tag">{tag}</span>
