@@ -13,7 +13,7 @@ function Footer() {
           <a href="https://github.com/ArthanKyle" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
             <FiGithub />
           </a>
-          <a href="https://linkedin.com/in/arthankyle" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+          <a href="https://www.linkedin.com/in/arthan-kyle-job-ydeo-3019b9371/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
             <BsLinkedin />
           </a>
         </div>
