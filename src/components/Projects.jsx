@@ -16,7 +16,7 @@ function Projects() {
       tags: ['PHP', 'E-Commerce'],
       title: 'Ala Cart Web',
       description: 'Full-stack e-commerce platform built during RaksoCT internship — product listings, cart, checkout.',
-      link: 'https://github.com/ArthanKyle/ala-cart-web'
+      link: 'https://github.com/ArthanKyle/ala_cart_web'
     },
     {
       tags: ['React', 'Node.js', 'AI'],
