@@ -405,13 +405,6 @@
 }
 
 
-
-.project-card--last {
-  grid-column: 1 / -1;
-  max-width: calc(50% - 1rem);
-  margin: 0 auto;
-}
-
 .project-tags {
   display: flex;
   gap: 0.75rem;
